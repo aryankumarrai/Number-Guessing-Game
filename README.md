@@ -42,7 +42,7 @@ The game generates a random number between 1 and 100, and the player is prompted
       ```bash
       ./number_guessing_game
   
- -🪟 On Windows, you may need to run:
+  -🪟 On Windows, you may need to run:
   
       number_guessing_game.exe
 
