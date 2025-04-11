@@ -37,9 +37,8 @@ The game generates a random number between 1 and 100, and the player is prompted
 
 3. **Run the Game ▶️**
 
-   -After compiling, run the executable:
+  -After compiling, run the executable:
 
-      ```bash
       ./number_guessing_game
   
   -🪟 On Windows, you may need to run:
