@@ -59,7 +59,6 @@ The game generates a random number between 1 and 100, and the player is prompted
 
    Random Number Generation:
 
-    ```cpp
     srand(time(0));
     int numberToGuess = rand() % 100 + 1;
   
@@ -79,7 +78,6 @@ The game generates a random number between 1 and 100, and the player is prompted
    -Fork the repository.
    -Create a new feature branch:
 
-    ```bash
     git checkout -b feature/new-feature
 
   -Commit your changes.
