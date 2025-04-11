@@ -50,8 +50,10 @@ The game generates a random number between 1 and 100, and the player is prompted
  -The game will prompt you to guess a number between 1 and 100.
  -Enter your guess and press Enter.
  -The program will provide feedback:
-     -"Too low. Try again:" if your guess is lower than the target number.
-     -"Too high. Try again:" if your guess is higher than the target number.
+     
+   -"Too low. Try again:" if your guess is lower than the target number.
+   -"Too high. Try again:" if your guess is higher than the target number.
+ 
  -When you guess correctly, you are congratulated and asked if you wish to play again.
  -Enter 'y' or 'Y' to restart the game, or any other character to quit.
 
