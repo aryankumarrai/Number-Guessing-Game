@@ -27,3 +27,19 @@ The game generates a random number between 1 and 100, and the player is prompted
    ```bash
    git clone https://github.com/your-username/number-guessing-game.git
    cd number-guessing-game
+
+2. **Compile the Code 🔧**
+
+Use your preferred C++ compiler. For example, with **g++**:
+
+```bash
+g++ -o number_guessing_game main.cpp
+
+3. **Run the Game ▶️**
+
+After compiling, run the executable:
+
+'''bash
+./number_guessing_game
+
+
